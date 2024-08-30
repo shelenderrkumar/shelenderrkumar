@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">I'm Shelender Kumar</h1>
-<h3 align="center">A Software Engineer currently studying Computer Science at SEECS, NUST.</h3>
+<h3 align="center">A Machine Learning Engineer and a graduate of Computer Science department from SEECS, NUST.</h3>
 
+<!--
 <p align="center"><img src="https://leetcard.jacoblin.cool/shelenderkumar?theme=unicorn&font=Actor&ext=activity" alt="shelenderkumar" /></p>
+-->
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shelenderrkumar&show_icons=true&locale=en&layout=compact" alt="shelenderrkumar" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shelenderrkumar&show_icons=true&locale=en" alt="shelenderrkumar" /></p>
 
