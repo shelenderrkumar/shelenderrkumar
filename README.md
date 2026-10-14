@@ -83,11 +83,13 @@ back-translation.
 <tr>
 <td width="50%" valign="top">
 
-#### 🛰️ [Network Monitoring with eBPF](https://github.com/shelenderrkumar/Network-Monitoring-App)
-A traffic-analysis dashboard that captures and analyses network flows at kernel level
-using **eBPF (bcc)** and nfstream, with a Flask web interface.
+#### 🛰️ [DPI Guard: domain blocking with eBPF/XDP](https://github.com/shelenderrkumar/Network-Monitoring-App)
+My final-year project, rebuilt as a research prototype. nDPI identifies the domain of each
+connection, and an **XDP program drops blocked traffic in the kernel**. A ClientHello fast path
+cut the time to block from **5.8 s to 0.8 ms**, stopping the very first connection.
 
-`eBPF` · `Linux` · `Flask` · `Docker`
+`eBPF/XDP` · `nDPI` · `Linux networking` · `Python`<br>
+📄 Paper draft in progress · measured on a real kernel testbed
 
 </td>
 <td width="50%" valign="top">
