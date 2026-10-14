@@ -1,43 +1,129 @@
-### Hi there 👋
+<a href="https://github.com/shelenderrkumar">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img alt="Shelender Kumar - Machine Learning Engineer. Real-time voice agents, retrieval-augmented LLMs, Urdu and low-resource NLP." src="assets/banner-light.svg" width="100%">
+  </picture>
+</a>
 
-<!--
-**shelenderrkumar/shelenderrkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">I'm Shelender Kumar</h1>
-<h3 align="center">A Machine Learning Engineer and a graduate of Computer Science department from SEECS, NUST.</h3>
-
-<!--
-<p align="center"><img src="https://leetcard.jacoblin.cool/shelenderkumar?theme=unicorn&font=Actor&ext=activity" alt="shelenderkumar" /></p>
--->
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shelenderrkumar&show_icons=true&locale=en&layout=compact" alt="shelenderrkumar" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shelenderrkumar&show_icons=true&locale=en" alt="shelenderrkumar" /></p>
-
-
-<br />
-<p align="left"> <a href="https://twitter.com/shelenderrkumar" target="blank"><img src="https://img.shields.io/twitter/follow/shelenderrkumar?logo=twitter&style=for-the-badge" alt="shelenderrkumar" /></a> </p>
-<br />
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shelenderrkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shelenderrkumar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shelenderrkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shelenderrkumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shelenderkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shelenderkumar" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/shelenderrkumar"><img src="https://img.shields.io/badge/X-@shelenderrkumar-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter"></a>
+  <a href="https://leetcode.com/shelenderkumar"><img src="https://img.shields.io/badge/LeetCode-shelenderkumar-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://www.hackerrank.com/shelenderrkumar"><img src="https://img.shields.io/badge/HackerRank-shelenderrkumar-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
 </p>
-<br />
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shelenderrkumar&label=Profile%20views&color=0e75b6&style=flat" alt="shelenderrkumar" /> </p>
+### Hi, I'm Shelender 👋
+
+I'm a machine learning engineer and a Computer Science graduate of **SEECS, NUST** (Pakistan).
+I build AI systems that **listen, speak and read**: speech-to-speech agents you can phone,
+retrieval-augmented assistants that cite their sources, and models for **Urdu**, a language
+spoken by over 200 million people that is still underserved by AI.
+
+I care about the gap between a demo and a dependable system: latency, failure modes,
+evaluation and tests.
+
+### 🔬 Research interests
+
+- **Conversational speech agents**: turn-taking, interruption handling, tool use and latency in speech-to-speech models
+- **Grounded generation**: retrieval quality, citation faithfulness and evaluation of RAG systems
+- **Low-resource and multilingual NLP**: Urdu, code-switched Urdu-English speech and text
+- **Vision-language learning**: image captioning and multimodal grounding
+
+### 🚀 Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📞 [Realtime Voice Agent](https://github.com/shelenderrkumar/Twilio-OpenAI-Realtime-Voice-Bot)
+A speech-to-speech AI agent you can **call on a real phone number**. It streams caller audio
+between Twilio and the OpenAI Realtime API, handles barge-in, and runs tool calls
+(tracking, a shopping cart, RAG) concurrently without blocking the audio. It speaks
+English and Urdu.
+
+`asyncio` · `WebSockets` · `FastAPI` · `LangChain` · `FAISS`<br>
+✅ 38 tests, including an end-to-end simulated phone call
+
+</td>
+<td width="50%" valign="top">
+
+#### 💬 [Stateful RAG Chatbot](https://github.com/shelenderrkumar/RAG-App)
+A conversational agent modelled as a **LangGraph state machine with human-in-the-loop
+interrupts**. It guides users through a flow, confirms before taking actions, and answers
+free-form questions over a PDF with page citations. Replies stream over WebSockets.
+
+`LangGraph` · `RAG` · `pypdf` · `FAISS` · `FastAPI`<br>
+📏 Retrieval evaluation with hit rate@k and MRR
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🖼️ [Urdu Image Captioning](https://github.com/shelenderrkumar/Urdu-Image-Captioning)
+Generating image captions **in Urdu**. A ResNet-101 encoder and an attention-based GRU
+decoder are trained on Flickr30k images with machine-translated Urdu captions, and
+evaluated with BLEU.
+
+`TensorFlow` · `Attention` · `Computer Vision` · `NLP`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🩺 [Healthcare Speech Translation](https://github.com/shelenderrkumar/Healthcare-Translation-App-with-Gen-AI)
+Real-time spoken translation for patient-provider conversations. It transcribes and
+translates speech with Whisper and reads the translation aloud with text-to-speech.
+
+`Whisper` · `OpenAI` · `gTTS` · `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛰️ [Network Monitoring with eBPF](https://github.com/shelenderrkumar/Network-Monitoring-App)
+A traffic-analysis dashboard that captures and analyses network flows at kernel level
+using **eBPF (bcc)** and nfstream, with a Flask web interface.
+
+`eBPF` · `Linux` · `Flask` · `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📊 [Tweet Sentiment API](https://github.com/shelenderrkumar/Tweet-Sentiment-Analysis)
+A REST service that serves a Transformer sentiment classifier, with CRUD storage,
+bulk ingestion, Pydantic schemas, tests and Docker.
+
+`Transformers` · `FastAPI` · `SQLite` · `pytest`
+
+</td>
+</tr>
+</table>
+
+### 🛠️ Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets">
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+</p>
+
+### 📫 Get in touch
+
+I'm happy to talk about speech AI, RAG evaluation, or NLP for Urdu and other
+low-resource languages. Reach me on [X / Twitter](https://twitter.com/shelenderrkumar)
+or open an issue on any of my repositories.
