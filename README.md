@@ -69,22 +69,27 @@ evaluated with BLEU.
 </td>
 <td width="50%" valign="top">
 
-#### 🩺 [Healthcare Speech Translation](https://github.com/shelenderrkumar/Healthcare-Translation-App-with-Gen-AI)
-Real-time spoken translation for patient-provider conversations. It transcribes and
-translates speech with Whisper and reads the translation aloud with text-to-speech.
+#### 🩺 [Medical Interpreter](https://github.com/shelenderrkumar/Healthcare-Translation-App-with-Gen-AI)
+A two-way **clinician-patient speech interpreter** for 10 languages, including Urdu. It
+transcribes with Whisper and translates with a constrained LLM prompt, then **flags dropped or
+altered doses and numbers** (across Urdu, Hindi and Arabic digits) and shows a round-trip
+back-translation.
 
-`Whisper` · `OpenAI` · `gTTS` · `Streamlit`
+`Whisper` · `OpenAI` · `Streamlit` · `gTTS`<br>
+🛡️ Safety checks covered by unit and headless UI tests
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🛰️ [Network Monitoring with eBPF](https://github.com/shelenderrkumar/Network-Monitoring-App)
-A traffic-analysis dashboard that captures and analyses network flows at kernel level
-using **eBPF (bcc)** and nfstream, with a Flask web interface.
+#### 🛰️ [DPI Guard: domain blocking with eBPF/XDP](https://github.com/shelenderrkumar/Network-Monitoring-App)
+My final-year project, rebuilt as a research prototype. nDPI identifies the domain of each
+connection, and an **XDP program drops blocked traffic in the kernel**. A ClientHello fast path
+cut the time to block from **5.8 s to 0.8 ms**, stopping the very first connection.
 
-`eBPF` · `Linux` · `Flask` · `Docker`
+`eBPF/XDP` · `nDPI` · `Linux networking` · `Python`<br>
+📄 Paper draft in progress · measured on a real kernel testbed
 
 </td>
 <td width="50%" valign="top">
