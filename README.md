@@ -69,11 +69,14 @@ evaluated with BLEU.
 </td>
 <td width="50%" valign="top">
 
-#### 🩺 [Healthcare Speech Translation](https://github.com/shelenderrkumar/Healthcare-Translation-App-with-Gen-AI)
-Real-time spoken translation for patient-provider conversations. It transcribes and
-translates speech with Whisper and reads the translation aloud with text-to-speech.
+#### 🩺 [Medical Interpreter](https://github.com/shelenderrkumar/Healthcare-Translation-App-with-Gen-AI)
+A two-way **clinician-patient speech interpreter** for 10 languages, including Urdu. It
+transcribes with Whisper and translates with a constrained LLM prompt, then **flags dropped or
+altered doses and numbers** (across Urdu, Hindi and Arabic digits) and shows a round-trip
+back-translation.
 
-`Whisper` · `OpenAI` · `gTTS` · `Streamlit`
+`Whisper` · `OpenAI` · `Streamlit` · `gTTS`<br>
+🛡️ Safety checks covered by unit and headless UI tests
 
 </td>
 </tr>
