@@ -60,11 +60,11 @@ free-form questions over a PDF with page citations. Replies stream over WebSocke
 <td width="50%" valign="top">
 
 #### 🖼️ [Urdu Image Captioning](https://github.com/shelenderrkumar/Urdu-Image-Captioning)
-Generating image captions **in Urdu**. A ResNet-101 encoder and an attention-based GRU
-decoder are trained on Flickr30k images with machine-translated Urdu captions, and
-evaluated with BLEU.
+Image captioning **in Urdu**, rebuilt in 2026. An audit of my 2024 model found its BLEU was
+inflated by train/test leakage and character-level scoring. Version 2 fixes the evaluation and
+compares a CNN-GRU, SigLIP 2 + mBART-50, and a LoRA-tuned Qwen3-VL.
 
-`TensorFlow` · `Attention` · `Computer Vision` · `NLP`
+`PyTorch` · `Transformers` · `LoRA` · `Evaluation`
 
 </td>
 <td width="50%" valign="top">
