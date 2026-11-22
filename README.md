@@ -15,8 +15,8 @@
 
 I'm a machine learning engineer and a Computer Science graduate of **SEECS, NUST** (Pakistan).
 I build AI systems that **listen, speak and read**: speech-to-speech agents you can phone,
-retrieval-augmented assistants that cite their sources, and models for **Urdu**, a language
-spoken by over 200 million people that is still underserved by AI.
+retrieval-augmented assistants that cite their sources, and models for **Urdu**, a widely spoken
+language that is still underserved by AI.
 
 I care about the gap between a demo and a dependable system: latency, failure modes,
 evaluation and tests.
@@ -59,7 +59,7 @@ free-form questions over a PDF with page citations. Replies stream over WebSocke
 <tr>
 <td width="50%" valign="top">
 
-#### 🖼️ [Urdu Image Captioning](https://github.com/shelenderrkumar/Urdu-Image-Captioning)
+#### 🖼️ [UrduCap: Urdu image captioning](https://github.com/shelenderrkumar/Urdu-Image-Captioning)
 Image captioning **in Urdu**, rebuilt in 2026. An audit of my 2024 model found its BLEU was
 inflated by train/test leakage and character-level scoring. Version 2 fixes the evaluation and
 compares a CNN-GRU, SigLIP 2 + mBART-50, and a LoRA-tuned Qwen3-VL.
@@ -86,10 +86,11 @@ back-translation.
 #### 🛰️ [DPI Guard: domain blocking with eBPF/XDP](https://github.com/shelenderrkumar/Network-Monitoring-App)
 My final-year project, rebuilt as a research prototype. nDPI identifies the domain of each
 connection, and an **XDP program drops blocked traffic in the kernel**. A ClientHello fast path
-cut the time to block from **5.8 s to 0.8 ms**, stopping the very first connection.
+cut the median time to block from **5,940 ms to 0.44 ms** and stopped 100 of 100 first connections
+([data](https://github.com/shelenderrkumar/Network-Monitoring-App/blob/main/bench/results/time_to_block.csv)).
 
 `eBPF/XDP` · `nDPI` · `Linux networking` · `Python`<br>
-📄 Paper draft in progress · measured on a real kernel testbed
+📄 [Preprint](https://github.com/shelenderrkumar/Network-Monitoring-App/blob/main/paper/main.pdf) · measured on a real kernel testbed
 
 </td>
 <td width="50%" valign="top">
